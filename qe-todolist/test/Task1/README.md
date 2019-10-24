@@ -25,4 +25,55 @@ Multiple users should be able to view the shared public todo list (no live updat
 ### Requirement
 Todo list items should persist after browser refresh
 ### TestSteps
+1. 1. Navigate to http://localhost:8081/todo
+2. Once page has loaded add a new todo list item
+3. Refresh the browser
+4. Verify the todo list item that you added still exists
+
+
+## TestCase 4
+### Requirement
+Todo items should not be able to be empty
+### TestSteps
+1. Navigate to http://localhost:8081/todo
+2. Click the submit button without adding anything into the submit input box
+3. Verify that no to do list item is added
+4. Add a new todo list item
+5. Click the update button without entering anything into update input box
+6. Verify that the todo list item did not change
+7. In the submit input box enter a whitespace and then click the submit button
+8. Verify that no todo list item is added
+
+## TestCase 5
+### Requirement
+Should be able to add todo items
+### TestSteps
+1. Navigate to http://localhost:8081/todo
+2. Enter "Test1" into the input box and click submit
+3. Verify the "Test1" todo list item is added
+4. Enter "Test2" into the input box and click submit
+5. Verify the "Test2" todo list item is added
+
+## TestCase 6
+### Requirement
+Should be able to delete todo items
+### TestSteps
+1. Navigate to http://localhost:8081/todo
+2. Enter "Test1" into the input box and click submit
+3. Enter "Test2" into the input box and click submit
+4. Delete the "Test1" todo list item by clicking the cross button on the left of it
+5. Verify the "Test1" todo list item no longer exists and only the "Test2" todo item exists
+6. Delete the "Test2" todo list item by clicking the cross button on the left of it
+7. Verify that no todo list items exist
+
+## TestCase 7
+### Requirement
+Should be able to edit todo items
+### TestSteps
+1. Navigate to http://localhost:8081/todo
+2. Enter "Test1" into the input box and click submit
+3. In the update input box enter "TestUpdated1" and click update 
+4. Verify the "Test1" todo list item has updated to "TestUpdated1"
+
+
 
