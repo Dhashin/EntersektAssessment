@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="404830e0-c4c5-456d-aa9f-5e8d1480fcfd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CucumberSeleniumFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CucumberSeleniumFramework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ObjectMaps/ObjectMapQeTodoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ObjectMaps/ObjectMapQeTodoList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Steps/Hook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Steps/Hook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Steps/TodoListVisibleToMultipleUsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Steps/TodoListVisibleToMultipleUsers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Steps/VerifyDockerDeploy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Steps/VerifyDockerDeploy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ObjectMaps/ObjectMapQeTodoList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ObjectMaps/ObjectMapQeTodoList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Steps/Hook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Steps/Hook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Task1/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="404830e0-c4c5-456d-aa9f-5e8d1480fcfd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +171,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571952689590</updated>
-      <workItem from="1571952694288" duration="38963000" />
+      <workItem from="1571952694288" duration="39139000" />
     </task>
     <servers />
   </component>
