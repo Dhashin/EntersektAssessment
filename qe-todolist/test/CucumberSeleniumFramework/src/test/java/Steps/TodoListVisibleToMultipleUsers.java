@@ -11,6 +11,7 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.Assert;
 
 public class TodoListVisibleToMultipleUsers {
 
@@ -65,6 +66,7 @@ public class TodoListVisibleToMultipleUsers {
             System.out.println("\tSUCCESS----Verify todolist item");
         }else{
             System.out.println("\tFAILURE----Verify todolist item");
+            Assert.fail();
         }
     }
 
@@ -91,6 +93,7 @@ public class TodoListVisibleToMultipleUsers {
             System.out.println("\tSUCCESS----Verify todolist items");
         }else{
             System.out.println("\tFAILURE----Verify todolist items");
+            Assert.fail();
         }
         tempDriver.quit();
     }

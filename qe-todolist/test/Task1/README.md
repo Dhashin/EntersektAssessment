@@ -65,12 +65,9 @@ Should be able to delete todo items
 ### TestSteps
 1. Navigate to http://localhost:8081/todo
 2. Enter "Test1" into the input box and click submit
-3. Enter "Test2" into the input box and click submit
-4. Delete the "Test1" todo list item by clicking the cross button on the left of it
-5. Verify the "Test1" todo list item no longer exists and only the "Test2" todo item exists
-6. Delete the "Test2" todo list item by clicking the cross button on the left of it
-7. Verify that no todo list items exist
-8. Close the browser
+3. Delete the "Test1" todo list item by clicking the cross button on the left of it
+4. Verify the "Test1" todo list item no longer exists
+5. Close the browser
 
 ## TestCase 7
 ### Requirement
@@ -78,9 +75,10 @@ Should be able to edit todo items
 ### TestSteps
 1. Navigate to http://localhost:8081/todo
 2. Enter "Test1" into the input box and click submit
-3. In the update input box enter "TestUpdated1" and click update 
-4. Verify the "Test1" todo list item has updated to "TestUpdated1"
-5. Close the browser
+3. Verify that "Test1" todo item was created
+4. In the update input box enter "TestUpdated1" and click update 
+5. Verify the "Test1" todo list item has updated to "TestUpdated1"
+6. Close the browser
 
 
 

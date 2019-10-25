@@ -5,6 +5,7 @@ import ObjectMaps.ObjectMapQeTodoList;
 import TestData.QeTodoListData;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
+import org.testng.Assert;
 
 public class VerifyDockerDeploy {
 
@@ -38,6 +39,7 @@ public class VerifyDockerDeploy {
             System.out.println("\tSUCCESS----Verify heading QE todolist");
         }else{
             System.out.println("\tFAILURE----Verify heading QE todolist");
+            Assert.fail();
         }
 
 
