@@ -1,4 +1,4 @@
-Feature: LoginFeature
+Feature: VerifyDockerDeploy
   This feature verifies that the application can deploy in docker
 
   Scenario: Navigate to docker URL and verify webpage
