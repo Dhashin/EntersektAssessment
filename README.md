@@ -19,8 +19,8 @@ Note : 	I tried to set up a CucumberJS Framework for automation as I was aware t
 		for this NodeJS app but ran into trouble with the available information for this Framework. Hence i was unable to get the "boiler plate" code running
 		in a manner that was satisfactory. Therefore I switched to Java as I'm more familiar with this.
 		
-##Windows
-###Steps to open the Framework
+## Windows
+### Steps to open the Framework
 
 1. Download and install IntelliJ (If you don't have an Ultimate license you can use the community version) : https://www.jetbrains.com/idea/download/#section=windows
 2. Download and install Java 8. Preferably add it to your PATH variables aswell : https://www.java.com/en/download/win10.jsp
@@ -34,8 +34,8 @@ Note : 	I tried to set up a CucumberJS Framework for automation as I was aware t
 
 
 
-##Linux
-###Steps to open the Framework
+## Linux
+### Steps to open the Framework
 
 1. Download and install IntelliJ (If you don't have an Ultimate license you can use the community version) : https://www.jetbrains.com/idea/download/#section=linux
 2. Download and install Java 8. Preferably add it to your PATH variables aswell : https://java.com/en/download/help/linux_x64_install.xml
@@ -51,8 +51,8 @@ Note : 	I tried to set up a CucumberJS Framework for automation as I was aware t
 	-On line 21 replace "chromedriver.exe" with "chromedriver"
 	
 	
-##Steps to run the tests
-###From IntelliJ
+## Steps to run the tests
+### From IntelliJ
 
 1. In the project explorer sidebar of IntelliJ, go to src/test/ and Left Click on "Features" folder
 2. Click "Run 'All Features in:Features'"
