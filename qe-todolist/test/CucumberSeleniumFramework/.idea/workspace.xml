@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="404830e0-c4c5-456d-aa9f-5e8d1480fcfd" name="Default Changelist" comment="" />
+    <list default="true" id="404830e0-c4c5-456d-aa9f-5e8d1480fcfd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Task3/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Task4/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +38,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/Steps" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -172,6 +176,9 @@
       <option name="presentableId" value="Default" />
       <updated>1571952689590</updated>
       <workItem from="1571952694288" duration="39139000" />
+      <workItem from="1572045142025" duration="603000" />
+      <workItem from="1572257955974" duration="123000" />
+      <workItem from="1572258103146" duration="1092000" />
     </task>
     <servers />
   </component>
@@ -183,7 +190,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
